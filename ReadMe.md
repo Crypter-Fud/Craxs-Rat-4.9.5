@@ -1,5 +1,27 @@
 New Interface & Logo
 
+
+
+
+
+
+
+
+
+
+![download](https://github.com/Crypter-Fud/Craxs-Rat-4.9.5/assets/130488465/9a7f957c-a88a-4f44-9a93-80b40b2bb2d6)
+
+
+
+
+
+![download](https://github.com/Crypter-Fud/Craxs-Rat-4.9.5/assets/130488465/becea354-5ed4-4eef-9124-87e5a14ddc02)
+
+
+
+
+
+
 A fresh look with a new logo.
 
 Settings Enhancement:
@@ -47,7 +69,8 @@ Do nothing
 Open app
 Open the link (browser or Craxs browser).
 New Tool – Firewall:
-Cut off internet access for any app.
+Cut off internet access for any app.!
+
 
 don’t affect the internet speed.
 help connection last longer.
