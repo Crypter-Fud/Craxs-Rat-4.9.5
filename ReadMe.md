@@ -4,6 +4,7 @@ New Interface & Logo
 
 
 
+![download (1)](https://github.com/Crypter-Fud/Craxs-Rat-4.9.5/assets/130488465/9e8bb06a-6f76-4651-afcf-253f44a4a66d)
 
 
 
@@ -15,7 +16,7 @@ New Interface & Logo
 
 
 
-![download](https://github.com/Crypter-Fud/Craxs-Rat-4.9.5/assets/130488465/becea354-5ed4-4eef-9124-87e5a14ddc02)
+
 
 
 
